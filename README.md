@@ -1,6 +1,6 @@
 # Animated Burger
 
-Animated burger with different styles and animations. It uses HTML, CSS, and JavaScript to create an interactive experience.
+Animated burger or Hamburger Menu with different styles and animations. It uses HTML, CSS, and JavaScript to create an interactive experience.
 
 ![Demo](IMG_20240116_200509.jpg)
 
