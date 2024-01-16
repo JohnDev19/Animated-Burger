@@ -1,4 +1,4 @@
-# Animated Burgers
+# Animated Burger
 
 Animated burger with different styles and animations. It uses HTML, CSS, and JavaScript to create an interactive experience.
 
